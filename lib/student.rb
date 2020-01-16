@@ -1,9 +1,9 @@
 class Student
   def hello
-    prints "Hey there! I'm so excited to learn stuff"
+    print "Hey there! I'm so excited to learn stuff"
   end
   
   def raise_hand
-    prints "Pick me!"
+    print "Pick me!"
   end
 end
